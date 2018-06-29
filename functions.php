@@ -9,6 +9,4 @@ function auto_redirect_after_logout(){
 	exit();
 	}
 	
-
-
 ?>
